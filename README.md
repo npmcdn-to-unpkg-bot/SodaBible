@@ -3,7 +3,7 @@ Welcome to SodaBible! SodaBible is a WIP Bible App made by Jonathan Bruce (Me) a
 - - - - - - - - - -
 With it (hopefully) you will be able to read the Bible (starting possibly with the ESV version), highlight verses, add notes, find your friends, and more!
 
-This app right now is in JS, but is currently in the process of being turned into a React and Meteor app.
+This app right now is in JavaScript, but is currently in the process of being turned into a React and Meteor app.
 
 Thank You and God Bless!
 
