@@ -1,2 +1,10 @@
 # SodaBible
-Welcome to SodaBible! This is the Bible app that I want to make in the future, and I was inspired by the YouVersion Bible App and my Quiet Time/Bible reading to make this! I want to make an app like the YouVersion app that has Highlights, Friends, and more, but I want to also throw my own spin on it. "SodaBible" might not be the final name, but that's what it's going to be for now! I hope you like this project and repository, because I will definitely be updating this repository in the future! Thank You and God Bless! ---Jonathan Bruce (@JwBZx)
+Welcome to SodaBible! SodaBible is a WIP Bible App made by Jonathan Bruce (Me) and will be released under my company's name (@Soderminal).
+- - - - - - - - - -
+With it (hopefully) you will be able to read the Bible (starting possibly with the ESV version), highlight verses, add notes, find your friends, and more!
+
+This app right now is in JS, but is currently in the process of being turned into a React and Meteor app.
+
+Thank You and God Bless!
+
+---Jonathan Bruce (@JwBZx)
